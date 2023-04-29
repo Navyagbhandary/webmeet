@@ -14,7 +14,7 @@ var ofmeet = (function (of) {
 
   if (!domain) domain = location.hostname;
   if (!server) server = location.host;
-  if (!hosted) hosted = "https://real-time-help-uat.technomers.com";
+  if (!hosted) hosted = "https://navyagbhandary.github.io/webmeet/";
   if (!workgroup) workgroup = "support";
   if (!plugins) plugins = "webmeet,jitsimeet";
   if (!conversation) conversation = "false";
